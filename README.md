@@ -1,4 +1,4 @@
-# price_tables_varias
+# SOME_PRICES_TABLES
 
 Varias tablas con animaciones en html5 css3
 
